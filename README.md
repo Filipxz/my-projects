@@ -1,2 +1,2 @@
 # my projects
- 
+ learning python ;)
